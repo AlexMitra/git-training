@@ -1,5 +1,5 @@
-line 0
-line 1
+line 0 update in git_0, step 7
+line 1 update in git_0, step 7
 line 2
 line 3
 line 4
